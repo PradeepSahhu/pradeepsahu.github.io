@@ -14,6 +14,7 @@ p{
 }
 .second-main{
     position: relative;
+    margin-bottom: 5rem;
 
 }
 .container article .article-body{
@@ -21,7 +22,7 @@ p{
     color: black;
 }
 .article{
-    width: 23%;
+    width: 45%;
     display: inline-block;
     margin-right: 1.2rem;
     margin-top: 1rem;
@@ -32,8 +33,9 @@ p{
     text-align: center;
 }
 
-img{
+.article img{
     border-radius: 20px;
+    border: 2px solid #D82148;
 }
 article a button {
     padding: 8px 15px;
